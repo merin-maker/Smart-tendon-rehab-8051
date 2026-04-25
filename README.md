@@ -14,3 +14,6 @@ A basic model for a smart tendon rehabilitation wearable device using 8051 Micro
 ## Project Status: Troubleshooting
 Currently debugging hardware-software integration. 
 * **In-Progress**: Fixing sensor-trigger issues on the physical breadboard.
+### Materials & Contributions
+* **Hinge Mechanism:** Custom-fabricated using high-grade recycled timber (*Ice cream sticks*).
+* **Team Sacrifice:** Partner successfully consumed two ice cream bars to provide the necessary mechanical structural components. 🍦🍦
